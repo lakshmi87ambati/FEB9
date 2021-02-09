@@ -1,0 +1,4 @@
+com\App\Test\HelloController.class
+com\App\Test\AppConfig.class
+com\App\Test\App.class
+com\App\Test\HelloController$Result.class
